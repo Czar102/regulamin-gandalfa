@@ -15,6 +15,6 @@
 
 ## §2 Zasady obowiązujące na Serwerze
   
-1. Nie należy edytować jednej wiadomości więcej niż 4 razy.
+1. Nie należy edytować jednej wiadomości więcej niż 5 razy w ciągu jednego dnia.
 
-2. Nie spamujemy. Spamowaniem nazywamy wysłanie więcej niż 4 wiadomości w ciągu jednej sekundy.
+2. Nie spamujemy. Spamowaniem nazywamy wysłanie więcej niż 3 wiadomości w 5 sekund.
