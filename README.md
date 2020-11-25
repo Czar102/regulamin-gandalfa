@@ -17,4 +17,4 @@
   
 1. Nie należy edytować jednej wiadomości więcej niż 4 razy.
 
-2. Nie spamujemy. Spamowaniem nazywamy wysłanie więcej niż 4 wiadomości w ciągu jednej sekundy
+2. Nie spamujemy. Spamowaniem nazywamy wysłanie więcej niż 4 wiadomości w ciągu jednej sekundy.
